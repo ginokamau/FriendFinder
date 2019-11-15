@@ -1,4 +1,4 @@
-var dawgz = require("../data/dawgPound.js");
+var dawgz = require("../data/dawgPound");
 
 module.exports = function(app){
     app.get("/api/dawgPound", function(req, res){

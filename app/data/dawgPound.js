@@ -1,8 +1,4 @@
 var dawgz = [{
-    name: "Hope",
-    photo: "https://img.bleacherreport.net/img/images/photos/002/044/742/hi-res-158367525_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",
-    scores: [5,2,3,4,3,3,5,2,4,4]
-},{
     name: "Will",
     photo: "https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fdawgpounddaily.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1047199730.jpeg&c=sc&w=736&h=485",
     scores: [4,4,3,3,4,4,5,3,5,4]
@@ -27,13 +23,17 @@ var dawgz = [{
 
 },{
     name: "Murray",
-    photo: "https://static.clubs.nfl.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/browns/aczregvfnntlzdizqm5p.jpg",
-    scores: [4,4,3,3,4,4,5,3,5,4]
+    photo: "https://i.pinimg.com/originals/96/d7/28/96d728c0bef5df674d907abc755126b0.jpg",
+    scores: [5,2,3,4,3,3,5,2,4,4]
 
 },{
     name: "Winston",
     photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV1W2jXBfPm32p5F9_RtnR7VfUgDadcYElNaY37iEwMS70-gaG",
     scores: [1,1,1,1,1,1,1,1,1,1]
+},{
+    name: "Hope",
+    photo: "https://img.bleacherreport.net/img/images/photos/002/044/742/hi-res-158367525_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",
+    scores: [4,4,3,3,4,4,5,3,5,4]
 },{
     name: "Rodney",
     photo: "https://businessmirror.com.ph/wp-content/uploads/2019/08/sports02-080319.jpg",
